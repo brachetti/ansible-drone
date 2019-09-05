@@ -25,6 +25,9 @@
       DRONE_GITHUB_CLIENT_ID: "{{drone_github_client_id}}"
       DRONE_GITHUB_CLIENT_SECRET: "{{drone_github_client_secret}}"
       DRONE_GITHUB_SKIP_VERIFY: "true"
+      DRONE_GITEA_SERVER: "{{drone_gitea_server_host}}"
+      DRONE_GITEA_CLIENT_ID: "{{drone_gitea_client_id}}"
+      DRONE_GITEA_CLIENT_SECRET: "{{drone_gitea_client_secret}}"
   tags:
     - drone
     - server

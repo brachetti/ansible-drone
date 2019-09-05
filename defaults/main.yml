@@ -24,6 +24,17 @@ drone_github_client_id:
 # Github oauth application client secret, more info https://docs.drone.io/installation/github/single-machine/
 drone_github_client_secret:
 
+# Gitea config section, more info https://docs.drone.io/installation/providers/gitea/
+
+# Require string value provides your Gitea server address. For example https://gitea.company.com
+drone_gitea_server_host:
+
+# Required string value provides your Gitea oauth Client ID.
+drone_gitea_client_id:
+
+# Required string value provides your Gitea oauth Client Secret.
+drone_gitea_client_secret:
+
 # A password to postgress db used by drone
 drone_postgress_password: droneRocks23@p
 # A username to postgress db used by drone, read more: https://docs.drone.io/administration/server/database/

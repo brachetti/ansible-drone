@@ -28,6 +28,9 @@ Available variables:
 |**`drone_rpc_secret`**|`hTirsXmrY4YsyK79ELgB`|Drone secret key, used for private communication between agent and web UI [more info](https://docs.drone.io/reference/server/drone-rpc-secret)|
 |**`drone_github_client_id`**|`""`|Github oauth application client identifier, [more info](https://docs.drone.io/installation/github/single-machine)|
 |**`drone_github_client_secret`**|`""`|Github oauth application client secret, [more info](https://docs.drone.io/installation/github/single-machine)|
+|**`drone_gitea_server_host`**|`""`|Gitea server, [more info](https://docs.drone.io/installation/providers/gitea)|
+|**`drone_gitea_client_id`**|`""`|Gitea oauth application client identifier, [more info](https://docs.drone.io/installation/providers/gitea)|
+|**`drone_gitea_client_secret`**|`""`|Gitea oauth application client secret, [more info](https://docs.drone.io/installation/providers/gitea)|
 |**`drone_postgress_password`**|`droneRocks23@p`|A password to postgress db used by drone|
 |**`drone_postgress_user`**|`drone`|A username to postgress db used by drone, [read more](https://docs.drone.io/administration/server/database)|
 |**`drone_postgress_db`**|`drone`|A name of to postgress db used by drone, [read more](https://docs.drone.io/administration/server/database)|
