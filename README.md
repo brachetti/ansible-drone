@@ -107,8 +107,14 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/681396?v=4" width="100px;"/><br /><sub><b>Andrew Orsich</b></sub>](https://github.com/anorsich)<br />[📖](https://github.com/paralect/ansible-drone/commits?author=anorsich "Documentation") [🤔](#ideas-anorsich "Ideas, Planning, & Feedback") [💻](https://github.com/paralect/ansible-drone/commits?author=anorsich "Code") [📖](https://github.com/paralect/ansible-drone/commits?author=anorsich "Documentation") [🤔](#ideas-anorsich "Ideas, Planning, & Feedback") [👀](#review-anorsich "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/6461311?v=4" width="100px;"/><br /><sub><b>Evgeny Zhivitsa</b></sub>](https://github.com/ezhivitsa)<br />[📖](https://github.com/paralect/ansible-drone/commits?author=ezhivitsa "Documentation") |
-| :---: | :---: |
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/anorsich"><img src="https://avatars3.githubusercontent.com/u/681396?v=4" width="100px;" alt="Andrew Orsich"/><br /><sub><b>Andrew Orsich</b></sub></a><br /><a href="https://github.com/paralect/ansible-drone/commits?author=anorsich" title="Documentation">📖</a> <a href="#ideas-anorsich" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/paralect/ansible-drone/commits?author=anorsich" title="Code">💻</a> <a href="https://github.com/paralect/ansible-drone/commits?author=anorsich" title="Documentation">📖</a> <a href="#ideas-anorsich" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-anorsich" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/ezhivitsa"><img src="https://avatars2.githubusercontent.com/u/6461311?v=4" width="100px;" alt="Evgeny Zhivitsa"/><br /><sub><b>Evgeny Zhivitsa</b></sub></a><br /><a href="https://github.com/paralect/ansible-drone/commits?author=ezhivitsa" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/brachetti"><img src="https://avatars3.githubusercontent.com/u/11609742?v=4" width="100px;" alt="RBr"/><br /><sub><b>RBr</b></sub></a><br /><a href="#ideas-brachetti" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!

@@ -29,6 +29,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "brachetti",
+      "name": "RBr",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11609742?v=4",
+      "profile": "https://github.com/brachetti",
+      "contributions": [
+        "ideas"
+      ]
     }
-  ]
+  ],
+  "repoType": "github",
+  "commitConvention": "none"
 }
